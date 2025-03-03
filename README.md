@@ -42,21 +42,21 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 - Balance roles in coding, scripting, testing, and deployment.
 
 ### 🌱 Personal Development and Self-Directed Learning
-**Self-Directed Learning, Stuttgart, Germany - Jan 2017 - Jan 2025**
+**Self-Directed Learning, Stuttgart, Germany **
 - 🖥️ Completed AWS and DevOps courses via YouTube, Udemy, and an intensive boot camp at Clarusway.
 - 📚 Gained practical skills in cloud and DevOps solutions for automation and increased efficiency.
 - 👩‍👧‍👦 Focused on settling in Germany and raising children, dedicating time to professional development once they started daycare.
 - 🧠 Enhanced technical skills while managing family responsibilities and career advancement.
 
 ### 🖥️ Information System Administrator
-**Ethiopian Civil Service University, Addis Ababa, Ethiopia - Apr 2013 - Dec 2016**
+**Ethiopian Civil Service University, Addis Ababa, Ethiopia **
 - Install and configure software, hardware, and networks.
 - Implement security measures and access controls to protect sensitive data.
 - Monitor performance and perform routine maintenance.
 - Develop and implement data backup and recovery plans.
 
 ### 🏫 IT Teacher
-**Government School, Addis Ababa, Ethiopia - Sep 2011 - Mar 2013**
+**Government School, Addis Ababa, Ethiopia **
 - Instructed IT courses to high school students using interactive teaching methods.
 
 ## 🎓 Education
@@ -65,7 +65,7 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 - Completed hands-on projects with AWS Cloud, DevOps and automation tools, gaining practical experience with Terraform, Docker, Ansible, Kubernetes, and CI/CD pipelines using Jenkins.
 
 ### Bachelor of Science: Computer Science
-**Jimma University, Jimma, Ethiopia - Sep 2007 - Aug 2010**
+**Jimma University, Jimma, Ethiopia **
 
 ## Certifications
 - ![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png) **AWS Certified Solutions Architect – Associate** (Oct 2024)
