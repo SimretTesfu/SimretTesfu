@@ -5,10 +5,6 @@
 
 ## AWS and DevOps Engineer
 
-📍 Stuttgart, 70190 Germany  
-📞 +4917621665352  
-📧 simrettony@gmail.com
-
 ## 📖 About Me
 I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/CD pipelines, and automation tools like Terraform, Ansible, and Jenkins. Familiar with cloud solution design, system administration, and containerization using Docker and Kubernetes. Intermediate understanding of Linux and Python scripting, with a focus on optimizing workflows and improving system reliability. Holds a Bachelor's in Computer Science and an AWS Solutions Architect certification. Eager to further develop expertise in DevOps and cloud technologies to contribute to scalable and efficient solutions.
 
