@@ -68,7 +68,7 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 **Jimma University, Jimma, Ethiopia **
 
 ## Certifications
-- ![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png) **AWS Certified Solutions Architect – Associate** (Oct 2024)
+ **AWS Certified Solutions Architect – Associate** (Oct 2024)
 
 ## 📞 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/Simret-Tesfu-Asrat)
