@@ -78,6 +78,4 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 ## 📊 GitHub Stats
 ![Simret's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimretTesfu&show_icons=true&theme=radical)
 
-## 🎬 Featured Video
-Check out this animation video about AWS and DevOps:
-![AWS and DevOps Animation](https://path/to/your/animation/video.gif)
+
