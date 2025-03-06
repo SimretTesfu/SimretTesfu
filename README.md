@@ -73,7 +73,7 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 ## 📞 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/Simret-Tesfu-Asrat)
 - 🐙 [GitHub](https://github.com/SimretTesfu)
-- 🦊 [GitLab](https://gitlab.com/SimretTesfu)
+- 🦊 [GitLab](https://gitlab.com/SimretTesfu/simret-tesfu-asrat)
 
 ## 📊 GitHub Stats
 ![Simret's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimretTesfu&show_icons=true&theme=radical)
