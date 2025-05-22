@@ -1,7 +1,7 @@
 # Hi, I'm Simret Tesfu Asrat! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SimretTesfu&label=Profile%20Views&color=0e75b6&style=flat)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SimretTesfu.SimretTesfu)
+
 
 ## AWS and DevOps Engineer
 
@@ -28,7 +28,7 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 - **Amharic:** Bilingual or Proficient (C2)
 - **Guragegna:** Bilingual or Proficient (C2)
 - **English:** Advanced (C1)
-- **German:** Elementary (A2)
+- **German:** Elementary (B1)
 
 ## 💼 Work History
 ### AWS and DevOps Engineer Intern
