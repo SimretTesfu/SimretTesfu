@@ -32,7 +32,7 @@ Aspiring DevOps Engineer with experience in Kubernetes, CI/CD pipelines, contain
 ## 💼 Work History
 ### Devops Engineer Intern
 **Advantest Europe GmbH, Herrenberger Str. 130, 71034 Boeblingen, Germany(Hybrid) - July 2025 - July 2026**
-- Working in the R&D DevOps team for 1 year, familiar with CRA‑related supply‑chain‑security tooling (Black Duck, Sonatype Lifecycle).
+- Worked in the R&D DevOps team for 1 year, familiar with CRA‑related supply‑chain‑security tooling (Black Duck, Sonatype Lifecycle).
 - Migrated multiple environments from Rancher to Kubernetes, including deployment, debugging, and validation.
 - Hands‑on experience operating Kubernetes clusters, Docker, Git, GitOps (ArgoCD), and CI/CD (GitHub Actions).
 - Strong Linux fundamentals and command‑line experience, and automated internal tasks using Python and Bash.
