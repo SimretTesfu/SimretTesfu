@@ -6,8 +6,7 @@
 ## AWS and DevOps Engineer
 
 ## 📖 About Me
-I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/CD pipelines, and automation tools like Terraform, Ansible, and Jenkins. Familiar with cloud solution design, system administration, and containerization using Docker and Kubernetes. Intermediate understanding of Linux and Python scripting, with a focus on optimizing workflows and improving system reliability. Holds a Bachelor's in Computer Science and an AWS Solutions Architect certification. Eager to further develop expertise in DevOps and cloud technologies to contribute to scalable and efficient solutions.
-
+Aspiring DevOps Engineer with experience in Kubernetes, CI/CD pipelines, containerization, and supply‑chain‑security tools such as Black Duck. Comfortable working with Linux, GitOps workflows, and Python/Bash scripting to automate tasks and support development teams. Familiar with cloud environments and motivated to learn new technologies, troubleshoot issues, and contribute to reliable DevOps solutions. Holds a Bachelor's in Computer Science and an AWS Solutions Architect certification.
 ## 💡 Skills
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -31,6 +30,16 @@ I'm an aspiring DevOps Engineer with hands-on internship experience in AWS, CI/C
 - **German:** Elementary (B1)
 
 ## 💼 Work History
+### Devops Engineer Intern
+**Advantest Europe GmbH, Herrenberger Str. 130, 71034 Boeblingen, Germany(Hybrid) - July 2025 - July 2026**
+- Working in the R&D DevOps team for 1 year, familiar with CRA‑related supply‑chain‑security tooling (Black Duck, Sonatype Lifecycle).
+- Migrated multiple environments from Rancher to Kubernetes, including deployment, debugging, and validation.
+- Hands‑on experience operating Kubernetes clusters, Docker, Git, GitOps (ArgoCD), and CI/CD (GitHub Actions).
+- Strong Linux fundamentals and command‑line experience, and automated internal tasks using Python and Bash.
+- Experienced in troubleshooting Kubernetes workloads, containers, and CI/CD pipelines.
+- Experience using AI‑assisted development tools to improve workflow efficiency.
+- High willingness to learn new technologies and take ownership.
+- Collaborated with international teams.
 ### AWS and DevOps Engineer Intern
 **NioyaTech, Virginia, United States (Remote) - Feb 2025 - Present**
 - Understand software development and solve IT operational challenges using software engineering tools and processes.
